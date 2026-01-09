@@ -1,4 +1,4 @@
-# LibRec: Book & Movie Recommendation System
+# MoodSync: Mood-Based Recommendation System
 
 A full-stack AI/ML mini project for College Hostel Library.
 

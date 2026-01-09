@@ -29,7 +29,7 @@ const Login = () => {
         <div style={{ minHeight: '80vh', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
             <div className="glass-panel" style={{ width: '100%', maxWidth: '400px', padding: '2rem' }}>
                 <h2 style={{ textAlign: 'center', marginBottom: '2rem' }} className="gradient-text">
-                    {isLogin ? 'Welcome Back' : 'Join LibRec'}
+                    {isLogin ? 'Welcome Back' : 'Join MoodSync'}
                 </h2>
 
                 {error && <div style={{ background: 'rgba(239, 68, 68, 0.2)', color: '#fca5a5', padding: '0.75rem', borderRadius: '8px', marginBottom: '1rem', fontSize: '0.9rem', textAlign: 'center' }}>{error}</div>}

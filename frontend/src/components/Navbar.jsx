@@ -17,7 +17,7 @@ const Navbar = () => {
             <div className="container" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', height: '80px' }}>
                 <Link to="/" className="gradient-text" style={{ fontSize: '1.8rem', fontWeight: '800', textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '0.75rem', letterSpacing: '-0.02em' }}>
                     <Book size={28} color="#db2777" />
-                    LibRec
+                    MoodSync
                 </Link>
 
                 {user && (
